@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537745475615",
+    "project_id": "managestate-a1456",
+    "storage_bucket": "managestate-a1456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537745475615:android:d6e74428673f57a1c8ad2a",
+        "android_client_info": {
+          "package_name": "com.states"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA77bLd2-lnlWScTjBVOHYTJ3ZXUHU62zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
