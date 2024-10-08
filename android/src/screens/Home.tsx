@@ -10,7 +10,7 @@ const HomeScreen = ({ navigation }: any) => {
   const handleLogout = async () => {
     try {
       await auth().signOut();
-      Alert.alert("Logout successful!", "You have been logged out.");
+      Alert.alert("Logout successful!", "You have been logged out from the screen.");
       navigation.navigate('Login');
     } catch (error) {
       Alert.alert("Error");
